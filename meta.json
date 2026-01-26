@@ -5,43 +5,43 @@
   "fps": 10,
   "total_frames": 252,
   "duration": 25.13,
-  "has_audio": false,
-  "audio_rate": 0,
+  "has_audio": true,
+  "audio_rate": 48000,
   "segments": [
     {
       "index": 0,
       "start_frame": 0,
-      "end_frame": 58,
-      "frame_count": 59,
-      "size": 203877
+      "end_frame": 50,
+      "frame_count": 51,
+      "size": 202103
     },
     {
       "index": 1,
-      "start_frame": 59,
-      "end_frame": 117,
-      "frame_count": 59,
-      "size": 201734
+      "start_frame": 51,
+      "end_frame": 100,
+      "frame_count": 50,
+      "size": 201306
     },
     {
       "index": 2,
-      "start_frame": 118,
-      "end_frame": 175,
-      "frame_count": 58,
-      "size": 202839
+      "start_frame": 101,
+      "end_frame": 150,
+      "frame_count": 50,
+      "size": 204349
     },
     {
       "index": 3,
-      "start_frame": 176,
-      "end_frame": 235,
-      "frame_count": 60,
-      "size": 203444
+      "start_frame": 151,
+      "end_frame": 202,
+      "frame_count": 52,
+      "size": 204551
     },
     {
       "index": 4,
-      "start_frame": 236,
+      "start_frame": 203,
       "end_frame": 251,
-      "frame_count": 16,
-      "size": 46418
+      "frame_count": 49,
+      "size": 192499
     }
   ]
 }
