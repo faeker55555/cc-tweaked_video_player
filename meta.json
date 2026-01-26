@@ -13,42 +13,42 @@
       "start_frame": 0,
       "end_frame": 44,
       "frame_count": 45,
-      "size": 181330
+      "size": 180707
     },
     {
       "index": 1,
       "start_frame": 45,
       "end_frame": 89,
       "frame_count": 45,
-      "size": 181282
+      "size": 181630
     },
     {
       "index": 2,
       "start_frame": 90,
       "end_frame": 134,
       "frame_count": 45,
-      "size": 182558
+      "size": 181327
     },
     {
       "index": 3,
       "start_frame": 135,
       "end_frame": 179,
       "frame_count": 45,
-      "size": 181795
+      "size": 183560
     },
     {
       "index": 4,
       "start_frame": 180,
-      "end_frame": 224,
-      "frame_count": 45,
-      "size": 181866
+      "end_frame": 225,
+      "frame_count": 46,
+      "size": 182782
     },
     {
       "index": 5,
-      "start_frame": 225,
+      "start_frame": 226,
       "end_frame": 251,
-      "frame_count": 27,
-      "size": 100749
+      "frame_count": 26,
+      "size": 96451
     }
   ]
 }
