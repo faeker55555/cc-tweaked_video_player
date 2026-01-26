@@ -11,37 +11,37 @@
     {
       "index": 0,
       "start_frame": 0,
-      "end_frame": 59,
-      "frame_count": 60,
-      "size": 203324
+      "end_frame": 58,
+      "frame_count": 59,
+      "size": 203877
     },
     {
       "index": 1,
-      "start_frame": 60,
-      "end_frame": 119,
-      "frame_count": 60,
-      "size": 202821
+      "start_frame": 59,
+      "end_frame": 117,
+      "frame_count": 59,
+      "size": 201734
     },
     {
       "index": 2,
-      "start_frame": 120,
-      "end_frame": 178,
-      "frame_count": 59,
-      "size": 202031
+      "start_frame": 118,
+      "end_frame": 175,
+      "frame_count": 58,
+      "size": 202839
     },
     {
       "index": 3,
-      "start_frame": 179,
-      "end_frame": 240,
-      "frame_count": 62,
-      "size": 204110
+      "start_frame": 176,
+      "end_frame": 235,
+      "frame_count": 60,
+      "size": 203444
     },
     {
       "index": 4,
-      "start_frame": 241,
+      "start_frame": 236,
       "end_frame": 251,
-      "frame_count": 11,
-      "size": 32301
+      "frame_count": 16,
+      "size": 46418
     }
   ]
 }
