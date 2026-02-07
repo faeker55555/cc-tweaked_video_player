@@ -1,0 +1,1 @@
+A cc tweaked implementation of video player, deffault repo contains interstellar on russian language have pause functionality and audio sometimes may drift away from video, pausing helps <img width="1022" height="503" alt="image" src="https://github.com/user-attachments/assets/1b0d4a2f-bdb5-404d-b6cc-ac3f2d381be3" />
